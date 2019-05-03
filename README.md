@@ -1,0 +1,2 @@
+# WhatsAuto
+Automatizador de whastapp
